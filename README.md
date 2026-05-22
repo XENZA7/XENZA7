@@ -1,5 +1,5 @@
 # 💫 About Me:
-BSc Computer Science and Electronics student; Aspiring to be a Data Scientist and Machine Learning
+BSc Computer Science and Electronics student; Aspiring to be a Data Scientist and Machine Learning Engineer
 
 
 ## 🌐 Socials:
