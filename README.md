@@ -1,5 +1,5 @@
-# 💫 About Me:
-BSc Computer Science and Electronics student; Aspiring to be a Data Scientist and Machine Learning Engineer
+# About Me:
+h1 align="center">Hi, I'm Siyamthanda 👋</h1> <h3 align="center">Data Scientist & ML Engineer in the making — I build production-minded ML systems, not just notebooks</h3> <p align="center"> Final-year BSc Computer Science & Electronics (North-West University) · Founder, SX Capital </p> <p align="center"> <a href="https://linkedin.com/in/SiyamthandaXenza"><img
 
 
 ## 🌐 Socials:
