@@ -76,14 +76,14 @@ An enterprise AI platform for vendor fraud detection using NLP, anomaly detectio
 📊 Digital Learning Analytics
 
 Predictive model on learning platform engagement data — surfaced a data leakage issue during evaluation, which was documented and corrected rather than hidden.
-Tech: Python • Scikit-learn • Pandas
+**Tech:** Python • Scikit-learn • Pandas
 
 -----
 
 ### 🤖 Bot Detection
 Stacked ensemble combining metadata, NLP, and behavioural biometrics to detect automated social media accounts.
 
-**Tech:** XGBoost • DistilBERT • BiLSTM • SHAP • Optuna •MLflow • Docker
+**Tech:** Python • Scikit-learn  • XGBoost • DistilBERT • BiLSTM • SHAP • Optuna •MLflow • Docker
 
 ---
 
