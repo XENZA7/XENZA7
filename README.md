@@ -1,11 +1,101 @@
-# About Me:
-h1 align="center">Hi, I'm Siyamthanda 👋</h1> <h3 align="center">Data Scientist & ML Engineer in the making — I build production-minded ML systems, not just notebooks</h3> <p align="center"> Final-year BSc Computer Science & Electronics (North-West University) · Founder, SX Capital </p> <p align="center"> <a href="https://linkedin.com/in/SiyamthandaXenza"><img
+# Hi, I'm Siyamthanda Xenza 👋
 
+🎓 BSc Computer Science & Electronics Student at North-West University  
+🤖 Aspiring Machine Learning Engineer & Data Scientist  
+📍 South Africa
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SiyamthandaXenza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siyalogie@gmail.com) 
+I enjoy building intelligent systems that transform data into actionable insights. My interests span machine learning, deep learning, natural language processing, computer vision, and MLOps.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+Currently building production-style AI projects focused on:
+- 🤖 Machine Learning
+- 📊 Data Science & Analytics
+- 🧠 Deep Learning
+- 💬 Natural Language Processing
+- ⚙️ MLOps & Model Deployment
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 Current Focus
+
+- Building portfolio-quality AI & Machine Learning projects
+- Learning scalable MLOps workflows
+- Deploying ML models with FastAPI & Docker
+- Exploring Large Language Models (LLMs)
+- Preparing for Machine Learning Engineer roles
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1F77B4?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21F?style=for-the-badge)
+![Optuna](https://img.shields.io/badge/Optuna-4C72B0?style=for-the-badge)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F00?style=for-the-badge)
+
+### Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly)
+
+### Deployment & MLOps
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
+![EvidentlyAI](https://img.shields.io/badge/Evidently_AI-4A90E2?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+---
+
+## 📌 Featured Projects
+
+### 🤖 VendorLensX
+An enterprise AI platform for vendor fraud detection using NLP, anomaly detection, explainable AI, and MLOps.
+
+**Tech:** Python • PyTorch • DistilBERT • XGBoost • SHAP • Optuna • FastAPI • MLflow • Docker
+
+---
+
+### 🤖 Bot Detection
+Stacked ensemble combining metadata, NLP, and behavioural biometrics to detect automated social media accounts.
+
+**Tech:** XGBoost • DistilBERT • BiLSTM • SHAP • Optuna
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=SiyamthandaXenza&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=SiyamthandaXenza&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyamthandaXenza&layout=compact&theme=tokyonight)
+
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/SiyamthandaXenza)
+
+📧 **Email:** siyalogie@gmail.com
