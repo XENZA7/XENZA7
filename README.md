@@ -91,11 +91,11 @@ Stacked ensemble combining metadata, NLP, and behavioural biometrics to detect a
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=SiyamthandaXenza&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=XENZA7&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SiyamthandaXenza&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=XENZA7&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyamthandaXenza&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XENZA7&layout=compact&theme=tokyonight)
 
 </p>
 
