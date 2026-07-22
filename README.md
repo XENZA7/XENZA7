@@ -73,7 +73,7 @@ An enterprise AI platform for vendor fraud detection using NLP, anomaly detectio
 
 ---
 
-###📊 Digital Learning Analytics
+### 📊 Digital Learning Analytics
 
 Predictive model on learning platform engagement data — surfaced a data leakage issue during evaluation, which was documented and corrected rather than hidden.
 **Tech:** Python • Scikit-learn • Pandas
