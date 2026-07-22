@@ -21,7 +21,6 @@ Currently building production-style AI projects focused on:
 - Learning scalable MLOps workflows
 - Deploying ML models with FastAPI & Docker
 - Exploring Large Language Models (LLMs)
-- Preparing for Machine Learning Engineer roles
 
 ---
 
