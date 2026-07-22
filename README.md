@@ -69,14 +69,21 @@ Currently building production-style AI projects focused on:
 ### 🤖 VendorLensX
 An enterprise AI platform for vendor fraud detection using NLP, anomaly detection, explainable AI, and MLOps.
 
-**Tech:** Python • PyTorch • DistilBERT • XGBoost • SHAP • Optuna • FastAPI • MLflow • Docker
+**Tech:** Python • PyTorch • DistilBERT • XGBoost • SHAP • Optuna • FastAPI • MLflow 
 
 ---
+
+📊 Digital Learning Analytics
+
+Predictive model on learning platform engagement data — surfaced a data leakage issue during evaluation, which was documented and corrected rather than hidden.
+Tech: Python • Scikit-learn • Pandas
+
+-----
 
 ### 🤖 Bot Detection
 Stacked ensemble combining metadata, NLP, and behavioural biometrics to detect automated social media accounts.
 
-**Tech:** XGBoost • DistilBERT • BiLSTM • SHAP • Optuna
+**Tech:** XGBoost • DistilBERT • BiLSTM • SHAP • Optuna •MLflow • Docker
 
 ---
 
